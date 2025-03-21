@@ -1,6 +1,6 @@
 # homepage/urls.py
 
-# Импортируем функцию path() 
+# Импортируем функцию path()
 # и файл homepage/views.py, в котором объявлена view-функция index().
 from django.urls import path
 
